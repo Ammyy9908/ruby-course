@@ -9,7 +9,4 @@ rescue ZeroDivisionError
     puts "Divide by Zero Error"
 rescue TypeError=>e
     puts e
-end
-
-
-    
+end  
